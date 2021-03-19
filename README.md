@@ -18,5 +18,5 @@ This model gives us an estimation to the daily probability to be positive to a p
 in one step using the global model, but the estimations of the rest days are online.They are calculated day by day according to its previous estimations. 
 One can find the full details and explanations in our paper.
 
-## Usage:
+
 
