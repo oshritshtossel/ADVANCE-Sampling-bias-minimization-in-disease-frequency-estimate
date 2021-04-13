@@ -2,7 +2,7 @@
 The project provides two alternative unbiased estimation models to the daily probability of being positive to a pandemic, based on the results of tests between a specific period of time
 and the profile of the individual.
 ## Datasets:
-The analysis was done on data of the Israeli Covid-19 between the dates of 11.3.2020 and 18.10.2020 , provided by the Ministry of health in Israel.
+The analysis was done on data of the Israeli Covid-19 between the dates of 11.3.2020 and 1.4.2021 , provided by the Ministry of health in Israel.
 The data can be found in the following link: https://data.gov.il/dataset/covid-19/resource/d337959a-020a-4ed3-84f7-fca182292308
 
 We checked our models estimation by checking the correlation to the daily number of deaths. The information about the daily number of deaths in Israel was taken from the dashboard
